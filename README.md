@@ -1,2 +1,2 @@
 # katano
-consolidate real estate information using function calling.
+consolidate real estate information using LLM function calling.
